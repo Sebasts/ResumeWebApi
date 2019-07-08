@@ -1,4 +1,4 @@
-io\hellsing\tokenservice\Application.class
-io\hellsing\tokenservice\ServletInitializer.class
-io\hellsing\tokenservice\Greeting.class
-io\hellsing\tokenservice\GreetingController.class
+io\hellsing\resume\api\Application.class
+io\hellsing\resume\api\service\impl\ResumeServiceImpl.class
+io\hellsing\resume\api\service\ResumeService.class
+io\hellsing\resume\api\controllers\ResumeController.class
